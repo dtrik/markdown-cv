@@ -1,25 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Damodaran Trikkadeeri
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Damodaran Trikkadeeri
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="d.trikkadeeri@gmail.com">d.trikkadeeri@gmail.com</a>
 </div>
 
+## EDA SKILLS
+`SYNOPSYS`
+PrimeTime, Design Compiler, Library Compiler
+`CADENCE`
+Virtuoso ADE, Virtuoso Layout, Spectre
+
+## LANGUAGE SKILLS
+`Natural Languages` 
+English, Malayalam, Hindi
+`Programming Languages` 
+Tcl, Python
 
 ## Currently
-
-Standing on the shoulders of giants
-
+Product Engineer at Synopsys India Pvt. Ltd.
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Static Timing Analysis
 
-
+WORK EXPERIENCE
+Senior Application Engineer II
+Supported customers with issues blocking signoff and tapeout stages of their
+designs
+•
+Synopsys India Pvt. Ltd.,
+Bengaluru, India
+Oct 2016 – Present
+Resolved signoff and ECO issues across technology nodes, 7nm and
+10nm included
+Engagement at Samsung India (SSIR) for all Signoff and ECO issues
+•
+Improve turnaround time by fast triage of blocking issues and
+workaround suggestions
+Drive release of new features and enhancements in the core timing analysis and
+reporting of PrimeTime
+•
+Developed documentation and presentations for customers and field
+engineers
+Responsible for an automated system to help customers facilitate release migration
+of PrimeTime
+Presented at SNUG Bangalore on best practices in DMSA
+R&D Engineer
+Design and delivery of ELAN10
+•
+•
+Simulation, floor planning, timing path analysis and build generation of
+ELAN10
+Performed board level validation of ELAN10 and diagnosis,
+reproduction and debugging of field issues
+Tejas Networks,
+Bengaluru, India
+Jun 2011 – Jun 2013
+Developed a 16-bit 2 GigE interface in Verilog
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
@@ -27,65 +67,15 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`Aug 2013 - May 2015`
+__Purdue University, West Lafayette, USA__
+- Master of Science in Electrical Engineering 
+`July 2007 - May 2011`
+__National Insitute of Technology , Calicut, India__
+- Bachelor of Technology in Electronics and Communication Engineering 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2020 -->
 
 
