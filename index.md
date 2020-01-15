@@ -25,26 +25,24 @@ Tcl, Python
 
 ## WORK EXPERIENCE
 `Product Engineer Sr II`
-
-`Oct 2016 – Present`
 _Synopsys India Pvt. Ltd., Bengaluru, India_
 
+`Oct 2016 – Present`
 
 * Supported customers with issues blocking signoff and tapeout stages of their designs
-- Resolved signoff and ECO issues across technology nodes, 7nm and 10nm included
-
+* Resolved signoff and ECO issues across technology nodes, 7nm and 10nm included
+* Engagement at Intel India for adoption of hierarchical analysis as well as multiple chip tapeouts
 * Engagement at Samsung India (SSIR) for all Signoff and ECO issues
-- Improve turnaround time by fast triage of blocking issues and workaround suggestions
+* Improve turnaround time by fast triage of blocking issues and workaround suggestions
 * Drive release of new features and enhancements in the core timing analysis and reporting of PrimeTime
 * Developed documentation and presentations for customers and field engineers
 * Responsible for an automated system to help customers facilitate release migration of PrimeTime
 * Presented at SNUG Bangalore on best practices in Distributed Multi Scenario Analysis
 
 `R&D Engineer`
-
-`Jun 2011 – Jun 2013`
 _Tejas Networks, Bengaluru, India_
 
+`Jun 2011 – Jun 2013`
 
 * Design and delivery of ELAN10
 * Simulation, floor planning, timing path analysis and build generation of ELAN10
