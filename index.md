@@ -11,7 +11,7 @@ title: Damodaran Trikkadeeri
 
 ## Currently
 
-Product Engineer at Synopsys India Pvt. Ltd.
+Senior Product Engineer at Synopsys India Pvt. Ltd.
 
 ## SKILLS
 Static Timing Analysis using PrimeTime
@@ -24,23 +24,27 @@ English, Malayalam, Hindi
 Tcl, Python
 
 ## WORK EXPERIENCE
-`Senior Application Engineer II`
-_Synopsys India Pvt. Ltd., Bengaluru, India_
+`Product Engineer Sr II`
+
 `Oct 2016 – Present`
+_Synopsys India Pvt. Ltd., Bengaluru, India_
+
 
 * Supported customers with issues blocking signoff and tapeout stages of their designs
 - Resolved signoff and ECO issues across technology nodes, 7nm and 10nm included
 
 * Engagement at Samsung India (SSIR) for all Signoff and ECO issues
-Improve turnaround time by fast triage of blocking issues and workaround suggestions
+- Improve turnaround time by fast triage of blocking issues and workaround suggestions
 * Drive release of new features and enhancements in the core timing analysis and reporting of PrimeTime
 * Developed documentation and presentations for customers and field engineers
 * Responsible for an automated system to help customers facilitate release migration of PrimeTime
 * Presented at SNUG Bangalore on best practices in Distributed Multi Scenario Analysis
 
 `R&D Engineer`
-_Tejas Networks, Bengaluru, India_
+
 `Jun 2011 – Jun 2013`
+_Tejas Networks, Bengaluru, India_
+
 
 * Design and delivery of ELAN10
 * Simulation, floor planning, timing path analysis and build generation of ELAN10
